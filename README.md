@@ -8,13 +8,18 @@ Escreva um ou dois parágrafos resumindo o objetivo de seu projeto.
 
 *Pedro Vinicius Ribeiro Teixeira Justino
 
+
 *Augusto Gabriel Lomba Pires
+
 
 Jaime Bispo dos Santos
 
+
 *Luiza Barros
 
+
 *João Gabriel Galdino de Oliveira
+
 
 
 ## Professor
