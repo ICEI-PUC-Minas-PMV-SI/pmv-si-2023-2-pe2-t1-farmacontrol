@@ -4,7 +4,7 @@ Escreva um ou dois parágrafos resumindo o objetivo de seu projeto.
 
 ## Integrantes
 
-* Nome completo do aluno 1
+Antonio Rubens Oliveira Juqneuria
 * Nome completo do aluno 2
 * Nome completo do aluno 3
 * Nome completo do aluno 4
