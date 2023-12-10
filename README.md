@@ -4,24 +4,13 @@ Escreva um ou dois parágrafos resumindo o objetivo de seu projeto.
 
 ## Integrantes
 
-*Antonio Rubens Oliveira Junqueira 
-
-*Pedro Vinicius Ribeiro Teixeira Justino
-
-
-*Augusto Gabriel Lomba Pires
-
-
+Antonio Rubens Oliveira Junqueira 
+Pedro Vinicius Ribeiro Teixeira Justino
+Augusto Gabriel Lomba Pires
 Jaime Bispo dos Santos
-
-
-*Luiza Barros
-
-
-*João Gabriel Galdino de Oliveira
-
-
+Luiza Barros
+João Gabriel Galdino de Oliveira
 
 ## Professor
 
-* Nome completo do professor
+Eveline ALonso Veloso
