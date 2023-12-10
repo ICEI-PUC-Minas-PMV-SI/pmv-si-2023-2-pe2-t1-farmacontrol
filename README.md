@@ -13,4 +13,4 @@ João Gabriel Galdino de Oliveira
 
 ## Professor
 
-Eveline ALonso Veloso
+Eveline Alonso Veloso
