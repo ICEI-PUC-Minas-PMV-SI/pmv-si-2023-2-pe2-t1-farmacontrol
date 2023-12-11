@@ -18,4 +18,4 @@ Escreva um ou dois parágrafos resumindo o objetivo de seu projeto.
 
 ## Professor
 
-* Nome completo do professor
+* Eveline Alonso Veloso
