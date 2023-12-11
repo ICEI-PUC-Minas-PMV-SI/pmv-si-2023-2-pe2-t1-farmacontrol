@@ -6,10 +6,11 @@ Liste os documentos disponibilizados nesta pasta com uma breve descrição do co
 * apresentacao.mkv - Vídeo de apresentação do projeto.
 * slides.pptx - Slides da apresentação final do projeto.
 
-[trabalho (5).docx](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t1-farmacontrol/files/13629648/trabalho.5.docx)
+
+[slides.pdf](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t1-farmacontrol/files/13629693/slides.pdf)
+
+[trabalho (5).docx](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t1-farmacontrol/files/13629694/trabalho.5.docx)
 
 
-
-https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t1-farmacontrol/assets/127355640/17d601ba-ac99-4273-8d8c-98f756c80a4d
-
+https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t1-farmacontrol/assets/127355640/3c1dc1e2-8214-42da-8790-7af88cb383e9
 
