@@ -4,17 +4,17 @@ Escreva um ou dois parágrafos resumindo o objetivo de seu projeto.
 
 ## Integrantes
 
-*Augusto Gabriel Lomba Pires,
+* Augusto Gabriel Lomba Pires,
 
-*Antonio Rubens Oliveira Junqueira,
+* Antonio Rubens Oliveira Junqueira,
 
-*Jaime Bispo dos Santos,
+* Jaime Bispo dos Santos,
 
-*Luiza Barros,
+* Luiza Barros,
 
-*João Gabriel Galdino de Oliveira
+* João Gabriel Galdino de Oliveira
 
-*Pedro Vinícius Ribeiro Teixeira Justino
+* Pedro Vinícius Ribeiro Teixeira Justino
 
 ## Professor
 
