@@ -1,31 +1,23 @@
 # YAML 1.2
 ---
 authors: 
-  - family-names: sobrenome do aluno 1
-    given-names: Nome do aluno 1 
-  - family-names: sobrenome do aluno 2
-    given-names: Nome do aluno 2 
-  - family-names: sobrenome do aluno 3
-    given-names: Nome do aluno 3 
-  - family-names: sobrenome do aluno 4
-    given-names: Nome do aluno 4 
-  - family-names: sobrenome do aluno 5
-    given-names: Nome do aluno 5 
-  - family-names: sobrenome do aluno 6
-    given-names: Nome do aluno 6
+  - family-names: Oliveira Junqueira
+    given-names: Antonio Rubens
+  - family-names: Ribeiro Teixeira Justino
+    given-names: Pedro Vinicius 
+  - family-names: Barros
+    given-names: Luiza
+  - family-names: Bispo dos Santos
+    given-names: Jaime
+  - family-names: Lomba Pires
+    given-names: Augusto gabriel
+  - family-names: Galdino de Oliveira
+    given-names: João Gabriel
     
   - name-suffix: Professor
     affiliation: PUC Minas
     family-names: Veloso
     given-names: Eveline Alonso
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: Baroni de Carvalho
-    given-names: Juliana Amaral 
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: Da Mota
-    given-names: Rosilane Ribeiro
   
 cff-version: "1.1.0"
 keywords: 
