@@ -8,6 +8,7 @@ Liste os documentos disponibilizados nesta pasta com uma breve descrição do co
 * apresentacao.mkv - Vídeo de apresentação do projeto.
 * 
 * slides.pptx - Slides da apresentação final do projeto.
-* 
+* [slides Farmacontrol.pdf](https://github.com/AntonioRubens77/pmv-si-2023-2-pe2-t1-farmacontrol/files/13630022/slides.Farmacontrol.pdf)
+
 
 
